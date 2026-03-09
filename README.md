@@ -38,7 +38,7 @@ electricity_flask/
 4. Open browser: `http://127.0.0.1:5000`
 
 ## 📈 Tableau Dashboard
-[View Live Dashboard on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK)
+[View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/akash.a1165/viz/electricity_project_17730577833690/MainDashboard)
 
 ## 👤 Author
 Your Name — Amrita University
